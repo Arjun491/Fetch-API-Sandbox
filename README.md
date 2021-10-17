@@ -1,0 +1,1 @@
+A small project to demonstrate about Async fetch API for making requests using CRUD operation and fetching resources from local text files as well as from a remote API as JSON data
